@@ -92,6 +92,24 @@ p{
     background-position: 92% 95%;
     background-size: 150px 150px;
 }
+.fifth-banner{
+    display: flex;
+    margin: 20px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: 10% 55%;
+    margin-bottom: 20px;
+}
+.half-width4 img{
+    width: 100%;
+    padding-left: 30%;
+}.half-width5{
+    width: 40%;
+    padding-left: 15%;
+    padding-top: 0;
+    padding-right: 5%;  
+}
 footer{
     text-align: center;
     background-color: black;
