@@ -92,3 +92,9 @@ p{
     background-position: 92% 95%;
     background-size: 150px 150px;
 }
+footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding-bottom: 20px;
+}
