@@ -64,3 +64,22 @@ p{
 .goals{
     background-color: rgb(181, 223, 139);
 }
+.third-banner{
+    display: flex;
+    margin: 20px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 150px 150px;
+    background-position: 10% 55%;
+    margin-bottom: 20px;
+}
+.half-width3{
+    width: 100%;
+    padding-top: 0;
+    padding-right: 10%;
+}
+.half-width2 img{
+    width: 50%;
+    padding-top: 8%;
+    padding-left: 30%;
+}
