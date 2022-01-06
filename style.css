@@ -10,9 +10,16 @@ p{
 .yellow{
     color: darkgreen;
 }
+.middle{
+    text-align: center;
+}
+.first-div{
+    border-left: 5px solid rgba(38, 21, 139, 0.418);
+    border-radius: 5px;
+}
 .flex-continer{
     display: flex;
-    margin-bottom: 50px;
+    margin-bottom: 20px;
 }
 .half-width{
     width: 50%;
@@ -34,4 +41,26 @@ p{
 .link-button:hover{
     background-color: green;
     color: black;
+}
+.one-third-width{
+    width: 30%;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-left: 8%;
+    margin-right: 8%;
+    border: none;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.one-third-width img{
+    width: 100%;
+}
+.mission{
+    background-color: gray;
+}
+.vission{
+    background-color: rgb(226, 198, 136);
+}
+.goals{
+    background-color: rgb(181, 223, 139);
 }
