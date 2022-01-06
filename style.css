@@ -23,10 +23,13 @@ p{
 }
 .half-width{
     width: 50%;
-    padding: 5%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 1%;
+    padding-left: 8%;
 }
 .half-width img{
-    width: 70%;
+    width: 75%;
 }
 .link-button{
     text-decoration: none;
@@ -82,4 +85,10 @@ p{
     width: 50%;
     padding-top: 8%;
     padding-left: 30%;
+}
+.fourth-banner{
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: 92% 95%;
+    background-size: 150px 150px;
 }
